@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { Button } from "./ui/button";
-import logo from "@/assets/urban-breathe-logo.png";
+import logo from "@/assets/urban-breathe-full-logo.jpg";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,8 +28,8 @@ export const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <div className="flex items-center gap-3 cursor-pointer" onClick={() => scrollToSection("home")}>
-            <span className="text-xl md:text-2xl font-bold text-foreground">PFA</span>
+          <div className="flex items-center cursor-pointer" onClick={() => scrollToSection("home")}>
+            <img src={logo} alt="Urban Breathe Logo" className="h-12 md:h-16" />
           </div>
 
           {/* Desktop Navigation */}
