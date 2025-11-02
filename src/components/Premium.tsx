@@ -19,7 +19,7 @@ export const Premium = () => {
     },
     {
       name: "Professional",
-      price: "₹7,999",
+      price: "₹9,999",
       period: "/month",
       description: "For architects and designers working on multiple projects",
       features: [

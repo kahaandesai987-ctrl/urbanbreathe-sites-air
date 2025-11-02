@@ -28,7 +28,7 @@ export const About = () => {
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
             Urban Breathe is an energy-efficiency and climate innovation startup dedicated to building 
-            sustainable urban solutions. Through cutting-edge technologies like <span className="font-semibold text-primary">BreatheSim</span> and{" "}
+            sustainable urban solutions. Through cutting-edge technologies like{" "}
             <span className="font-semibold text-secondary">GridFlux</span>, we empower professionals to create 
             cities that are healthier, more efficient, and better for our planet.
           </p>
