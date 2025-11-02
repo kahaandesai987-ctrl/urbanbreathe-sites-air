@@ -29,8 +29,7 @@ export const Navbar = () => {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => scrollToSection("home")}>
-            <img src={logo} alt="Urban Breathe Logo" className="h-10 w-10 md:h-12 md:w-12" />
-            <span className="text-xl md:text-2xl font-bold text-foreground">Urban Breathe</span>
+            <span className="text-xl md:text-2xl font-bold text-foreground">PFA</span>
           </div>
 
           {/* Desktop Navigation */}

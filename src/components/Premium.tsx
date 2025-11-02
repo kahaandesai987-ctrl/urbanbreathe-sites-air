@@ -6,7 +6,7 @@ export const Premium = () => {
   const plans = [
     {
       name: "Freemium",
-      price: "$0",
+      price: "₹0",
       description: "Perfect for getting started with basic simulation tools",
       features: [
         "Basic climate simulation",
@@ -19,7 +19,7 @@ export const Premium = () => {
     },
     {
       name: "Professional",
-      price: "$99",
+      price: "₹7,999",
       period: "/month",
       description: "For architects and designers working on multiple projects",
       features: [

@@ -7,7 +7,7 @@ export const Courses = () => {
     {
       title: "Sustainable Urban Design Fundamentals",
       description: "Learn the core principles of creating energy-efficient and climate-conscious urban spaces",
-      date: "March 15, 2025",
+      date: "November 15, 2025",
       type: "Workshop",
       duration: "4 weeks",
       icon: Users,
@@ -15,7 +15,7 @@ export const Courses = () => {
     {
       title: "Advanced Ventilation Modeling",
       description: "Master airflow simulation techniques for optimal building performance",
-      date: "April 8, 2025",
+      date: "November 8, 2025",
       type: "Training Session",
       duration: "2 weeks",
       icon: Video,
@@ -23,7 +23,7 @@ export const Courses = () => {
     {
       title: "Climate Analytics for City Planners",
       description: "Utilize data-driven insights to make informed decisions about urban development",
-      date: "May 20, 2025",
+      date: "November 20, 2025",
       type: "Webinar Series",
       duration: "6 sessions",
       icon: Calendar,

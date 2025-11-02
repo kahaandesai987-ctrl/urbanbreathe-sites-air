@@ -81,6 +81,18 @@ export const GridFlux = () => {
               </div>
             ))}
           </div>
+
+          {/* Try Prototype Section */}
+          <div className="mt-12 text-center">
+            <a
+              href="https://www.breathesim.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-primary text-white font-semibold rounded-lg shadow-hover hover:scale-105 transition-transform duration-300"
+            >
+              Try Prototype
+            </a>
+          </div>
         </div>
       </div>
     </section>

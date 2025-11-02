@@ -106,7 +106,7 @@ export const Contact = () => {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Phone</p>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+91 9876543210</p>
                   </div>
                 </div>
 
@@ -117,8 +117,7 @@ export const Contact = () => {
                   <div>
                     <p className="font-medium text-foreground">Address</p>
                     <p className="text-muted-foreground">
-                      123 Innovation Drive<br />
-                      San Francisco, CA 94105
+                      Mumbai, India
                     </p>
                   </div>
                 </div>
